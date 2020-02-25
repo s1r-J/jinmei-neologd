@@ -20,7 +20,8 @@ python jinmei_neologd.py '~/mecab-user-dict-seed.yyyyMMdd.csv'
 
 ## Usage
 
-そのうち書く。
+GitHub Pagesで[サイト](https://s1r-j.github.io/jinmei-neologd/)を作成しているので、
+姓または名のリンクを押せばそれぞれのJSONファイルが返却されます。
 
 ## Licence
 
